@@ -20,7 +20,7 @@ This is a simple command-line Hospital Management System developed using Java an
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/hospital-management-system.git
+   git clone https://github.com/and-anurag/hospital_management_system.git
    cd hospital-management-system
    ```
 
