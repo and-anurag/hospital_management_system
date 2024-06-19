@@ -1,7 +1,3 @@
-Sure, here is a sample README file for the Hospital Management System project based on the information and image provided:
-
----
-
 # Hospital Management System
 
 This is a simple command-line Hospital Management System developed using Java and SQL. The system allows hospital staff to manage patients, doctors, and appointments efficiently.
